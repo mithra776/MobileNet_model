@@ -1,0 +1,82 @@
+.header_div
+{
+    background: white;
+    color: orangered;
+    
+}
+
+.header_div img
+{
+    width: 100px;
+}
+
+body
+{
+    font-family: 'Allison', cursive;
+    font-size: 40px;
+    background: lightpink;
+}
+
+.main_div
+{
+    background: lightpink;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+
+}
+
+.main_div label
+{
+   background: white;
+   width: 310px;
+   padding : 10px;
+   margin-bottom: 0px;
+   box-shadow: 5px 5px 18px white;
+}
+
+#camera , #result
+{
+    border: 2px ridge  white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white ;
+}
+
+.main_div button
+{
+    width: 310px;
+    font-size: 15px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px ridge;
+}
+
+.footer_div
+{
+    margin-bottom: 50px;
+}
+
+.footer_div img
+{
+   width: 70px;
+}
+
+.footer_div h4
+{
+    background:white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: slategray;
+    bottom: 0;
+    width: 100%;
+    background: white;
+    line-height: 1.25;
+    text-align: center ;
+
+}
